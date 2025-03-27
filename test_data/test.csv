@@ -1,0 +1,17 @@
+id,name,age,email,salary,department,joining_date,remarks
+1,John Doe,30,john.doe@example.com,55000,Engineering,2022-05-10,Promoted last year
+2,Jane Smith,,jane.smith@example.com,62000,Marketing,2021-08-15,Excellent performance
+3,Robert Brown,40,robert.brown@example.com,,HR,2019-11-23,Salary missing
+4,Emily Davis,27,emily.davis@example.com,70000,Finance,2023-01-05,"Joined ""Gold"" tier program"
+5,Michael Wilson,35,michael.wilson@example.com,80000,IT,2020-03-20,On leave
+6,Chris Evans,29,,65000,Sales,2022-12-01,No email provided
+7,Alice Johnson,32,alice.johnson@example.com,90000,Legal,2018-07-10,"Special case, with a comma"
+8,Bob Martin,28,bob.martin@example.com,72000,Support,2021-04-17,
+,,,,,,,
+10, Bob Martin , 28  ,bob.martin@example.com,72000,Support,2021-04-17,
+11, Bob Martin2 , 28  ,          ,72000,Support,2021-04-17,
+12,1,2,3,4,5,6,7
+6,Chris Evans,29,,65000,Sales,2022-12-01,No email provided
+13,Chris Evans,28,,65000,Sales,2022-12-01,No email \n provided
+14,Alice Johnson,32,alice.johnson@example.com,90000,Legal,2018-07-10,"Special \"case\" with a comma"
+18;Bob Martin;28,bob.martin@example.com;72000;Support;2021-04-17;
